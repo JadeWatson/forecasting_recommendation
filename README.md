@@ -13,5 +13,5 @@ Builds the processed data from the frontend to be analyzed and plotted throughou
 ## Recommender
 Applies user input forecasting methodology to change the projected metrics forecast for the remainder of the year. Includes a global summary to show the present vs projected change
 
-## Usser Interface
+## User Interface
 A .ipynb that allows users to interact with the forecasted system. 
